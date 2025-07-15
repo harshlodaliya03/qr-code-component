@@ -10,9 +10,7 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 
 ## 🔗 Live Demo
 
-[👉 View Live Site](https://yourusername.github.io/qr-code-component/)  
-[📁 View Repository](https://github.com/yourusername/qr-code-component)  
-*(Replace both links with your actual GitHub repo and deployed URL)*
+[👉 View Live Site]([https://yourusername.github.io/qr-code-component/](https://harshlodaliya03.github.io/qr-code-component/))  
 
 ---
 
