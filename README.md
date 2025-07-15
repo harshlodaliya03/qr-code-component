@@ -51,8 +51,8 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 
 ## ✅ Author
 
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/harshlodaliya03)
-- GitHub – [@yourusername](https://github.com/harshlodaliya03)
+- Frontend Mentor – (https://www.frontendmentor.io/profile/harshlodaliya03)
+- GitHub – (https://github.com/harshlodaliya03)
 
 ---
 
